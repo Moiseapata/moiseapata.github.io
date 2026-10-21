@@ -1,7 +1,7 @@
 Skymatch — export statique pour GitHub Pages
 
-Dépôt cible : Moiseapata/plane
-Préfixe des pages et des images : /plane/
+Dépôt cible : Moiseapata/skymatch
+Préfixe des pages et des images : /skymatch/
 
 Publiez le CONTENU de cette archive dans le dossier que GitHub Pages utilise (racine du dépôt ou dossier /docs). Ne placez pas les fichiers dans un dossier parent supplémentaire. index.html doit se trouver directement à la racine publiée; conservez les dossiers assets, fonts, images, fr et les fichiers .nojekyll et 404.html.
 
